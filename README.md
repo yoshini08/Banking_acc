@@ -22,7 +22,7 @@ Java
 
 Ensure Java is installed on your system. You can check by running:
 
-'''bash
+```java
 sh
 Copy
 Edit
@@ -39,7 +39,7 @@ Copy the provided Java code into a file named Main.java.
 
 Open a terminal or command prompt and navigate to the folder where Main.java is saved. Then, compile the program using:
 
-'''bash
+```java
 javac Main.java
 '''
 
@@ -49,7 +49,7 @@ This will create a Main.class file.
 
 Execute the compiled program by running:
 
-'''bash
+```java
 sh
 Copy
 Edit
