@@ -27,7 +27,7 @@ sh
 Copy
 Edit
 java -version 
-'''
+```
 
 If Java is not installed, download and install it from: Oracle Java
 
@@ -41,7 +41,7 @@ Open a terminal or command prompt and navigate to the folder where Main.java is 
 
 ```java
 javac Main.java
-'''
+```
 
 This will create a Main.class file.
 
@@ -54,7 +54,7 @@ sh
 Copy
 Edit
 java Main
-'''
+```
 
 ### Step 5: Interact with the ATM
 
